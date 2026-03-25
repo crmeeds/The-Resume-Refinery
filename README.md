@@ -16,9 +16,36 @@ Most resumes fail not because of a lack of experience, but because of a lack of 
 * **Language:** Python 3.x
 * **Processing:** Claude (API key required)
 
-## 📥 Installation
+## 📥 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/The-Resume-Refinery.git
-   cd The-Resume-Refinery
+**Prerequisites:** Python 3.9+ and an [Anthropic API key](https://console.anthropic.com)
+
+### 1. Get the code
+- **New to GitHub:** Click the green **Code** button → **Download ZIP**, then unzip the folder
+- **Git users:** `git clone https://github.com/[your-username]/The-Resume-Refinery.git`
+
+### 2. Install dependencies
+```bash
+cd The-Resume-Refinery
+pip install -r requirements.txt
+```
+
+### 3. Set up your API key
+```bash
+cp .env.example .env
+```
+Open `.env` and replace `your_api_key_here` with your actual Anthropic API key.
+
+### 4. Add your master resume
+```bash
+cp master_resume.md.example master_resume.md
+```
+Open `master_resume.md` and replace the placeholder content with your full resume. Include everything — the tool selects and tailors the relevant portions for each job.
+
+### 5. Launch the app
+```bash
+python3 gui.py
+```
+Your browser opens automatically to `http://localhost:5000`.
+
+> Steps 3 and 4 are one-time setup. After that, just run `python3 gui.py` each time.
