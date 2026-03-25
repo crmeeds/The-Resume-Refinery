@@ -1,0 +1,78 @@
+# Master Resume
+
+Copy this file to `master_resume.md` and replace the content with your own information.
+This file is your "source of truth" — include everything. The optimizer selects and
+tailors the relevant portions for each job application.
+
+---
+
+## Summary
+
+Systems engineer with 10+ years of experience designing and delivering complex
+hardware/software systems for defense and aerospace programs. Active TS/SCI clearance.
+Strong background in requirements decomposition, integration testing, and cross-functional
+team leadership. Experience with MBSE, DoDAF, and Agile/SAFe methodologies.
+
+---
+
+## Skills
+
+Engineering: Systems engineering, requirements analysis, interface control documents (ICD),
+MBSE, SysML, DoDAF, trade studies, risk management, FMEA, V&V planning
+
+Software/Tools: MATLAB/Simulink, Python, DOORS, Jira, Confluence, Git, MS Project
+
+Domain: Space systems, satellite communications, radar, electronic warfare, C4ISR
+
+Leadership: IPT lead, proposal writing, earned value management (EVM), subcontractor management
+
+---
+
+## Professional Experience
+
+SENIOR SYSTEMS ENGINEER
+Acme Defense Systems | Bethesda, MD | Jan 2018 - Present
+
+- Led a 6-person systems engineering team delivering a $40M C2 system upgrade on schedule
+  and 8% under budget, enabling a follow-on contract worth $120M
+- Architected end-to-end data flow for a real-time sensor fusion system, reducing latency
+  by 35% through interface optimization with 4 subsystem vendors
+- Authored 200+ system-level requirements in DOORS; chaired weekly IPT reviews with
+  government customer and 3 prime subcontractors
+- Developed CONOPS and operational thread analysis for a space-based ISR system,
+  directly supporting a successful CDR with zero category 1 findings
+- Mentored 3 junior engineers; 2 promoted within 18 months
+
+SYSTEMS ENGINEER II
+Orbit Solutions Group | Chantilly, VA | Jun 2014 - Dec 2017
+
+- Designed verification and validation strategy for a 12-satellite constellation;
+  executed 400+ test cases with 99.2% pass rate at CDR
+- Reduced integration test cycle time by 22% by developing an automated test harness
+  in Python, eliminating manual data entry across 6 subsystems
+- Supported proposal team for 3 IDIQ bids totaling $280M; contributed technical volumes
+  and basis-of-estimate for systems engineering labor
+- Maintained ICD baseline across 8 external interfaces; resolved 47 interface anomalies
+  during SIL and HIL testing phases
+
+---
+
+## Education
+
+M.S., Systems Engineering - Johns Hopkins University, 2016 (GPA: 3.8)
+
+B.S., Electrical Engineering - Virginia Tech, 2014 - Magna Cum Laude
+
+---
+
+## Certifications
+
+- INCOSE Certified Systems Engineering Professional (CSEP), 2019
+- SAFe 5 Agilist, 2021
+- PMI Project Management Professional (PMP), 2020
+
+---
+
+## Security Clearance
+
+Active TS/SCI with CI Polygraph | U.S. Citizen
